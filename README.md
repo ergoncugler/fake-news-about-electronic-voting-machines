@@ -26,4 +26,4 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 
 ### How to Cite it:
 
-**SILVA, Ergon Cugler de Moraes Silva. Web Scraping Extraction of All Main Fake News about Electronic Voting Machines from 2018 to 2022 Checked by the Consortium of Fact-Checking Agencies 'Fato ou Boato', of the Superior Electoral Court of Brazil. (feb) 2023. Available at: <a>https://github.com/ergoncugler/fake-news-about-electronic-voting-machines/</a>.**
+**SILVA, Ergon Cugler de Moraes. Web Scraping Extraction of All Main Fake News about Electronic Voting Machines from 2018 to 2022 Checked by the Consortium of Fact-Checking Agencies 'Fato ou Boato', of the Superior Electoral Court of Brazil. (feb) 2023. Available at: <a>https://github.com/ergoncugler/fake-news-about-electronic-voting-machines/</a>.**
